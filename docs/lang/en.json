@@ -1,9 +1,10 @@
 {
     "site_name" : "The DOMO Project<span class='site-tagline'>Community oriented development</span>",  
     "tagline" : "Community oriented development",  
-    "home" : "Home",  
-    "downloads" : "Downloads",  
-    "features" : "Features",  
+    "home" : "Home",
+    "about" : "About us",
+    "features" : "Features",
+    "downloads" : "Downloads",	
     "development" : "Development",  
     "history" : "History",  
     "join_us" : "Join us", 
